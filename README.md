@@ -1,7 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azmitammam&style=plastic&label=Profile+visits&color=red"alt="Azmi Profile visits" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GhassanDabak&style=plastic&label=Profile+visits&color=red"alt="Ghassan Profile visits" /> </p>
 <p align="center">
 <img alt="Night Coding" src="./assets/wave-hello.gif" width='40' align="left" />
-<h2>Hey there! I'm Azmi</h2>
+<h2>Hey there! I'm Ghassan </h2>
 <img height="350px" width="1000px" src="./assets/js.gif">
 
 ### **_a Spent 6500+ hours of practical experience coding responsive and dynamic websites. Motivated by the curiosity about the way life is being transformed by technology. I do enjoy problem-solving and taking care of the user experience._**</br></br>
@@ -31,9 +31,9 @@
 
 <p align="center">
 
-<a href="https://github.com/azmitammam">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=azmitammam&include_all_commits=true&show_icons=true&count_private=true&theme=algolia" alt="Azmi Github Status logo" />
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azmitammam&layout=compact&langs_count=8&theme=algolia" />
+<a href="https://github.com/GhassanDabak">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GhassanDabak&include_all_commits=true&show_icons=true&count_private=true&theme=algolia" alt="Ghassan Github Status logo" />
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GhassanDabak&layout=compact&langs_count=8&theme=algolia" />
 </a>
 </p>
 
@@ -41,8 +41,8 @@
 
 <p align="center">
 
-<a href="https://github.com/AzmiTammam"> <img src="https://img.shields.io/github/followers/AzmiTammam?style=social" alt="Github Logo"></a>
-<a href="https://twitter.com/intent/follow?screen_name=azzmmii"> <img src="https://img.shields.io/twitter/follow/Azzmmii?style=social" alt="twitter Logo"></a><a href="mailto:azmitammam@gmail.com"><img src="https://img.shields.io/badge/-AzmiTammam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/azmitammam/"><img src="https://img.shields.io/badge/-Azmi%20Tammam-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a><a href="https://dev.to/azmitammam"><img src="https://img.shields.io/badge/-AzmiTammam-0A0A0A?style=flat&logo=dev.to&logoColor=white" /></a>
+<a href="https://github.com/GhassanDabak"> <img src="https://img.shields.io/github/followers/GhassanDabak?style=social" alt="Github Logo"></a>
+<a href="mailto:ghassan.h.dabak@gmail.com"> <img src="https://img.shields.io/badge/-GhassanDabak@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/ghassan-dabak/"><img src="https://img.shields.io/badge/-Ghassan%20Dabak-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a><a href="https://dev.to/Ghassan Dabak"><img src="https://img.shields.io/badge/-GhassanDabak-0A0A0A?style=flat&logo=dev.to&logoColor=white" /></a>
 
 </p>
 </a>
